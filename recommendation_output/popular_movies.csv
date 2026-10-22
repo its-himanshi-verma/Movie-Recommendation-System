@@ -1,0 +1,21 @@
+movieId,Rating_Count,Average_Rating,title,genres
+356,329,4.164133738601824,Forrest Gump (1994),Comedy|Drama|Romance|War
+318,317,4.429022082018927,"Shawshank Redemption, The (1994)",Crime|Drama
+296,307,4.197068403908795,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+593,279,4.161290322580645,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+2571,278,4.192446043165468,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+260,251,4.231075697211155,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+480,238,3.75,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+110,237,4.031645569620253,Braveheart (1995),Action|Drama|War
+589,224,3.970982142857143,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+527,220,4.225,Schindler's List (1993),Drama|War
+2959,218,4.272935779816514,Fight Club (1999),Action|Crime|Drama|Thriller
+1,215,3.9209302325581397,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+1196,211,4.2156398104265405,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+50,204,4.237745098039215,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+2858,204,4.056372549019608,American Beauty (1999),Drama|Romance
+47,203,3.9753694581280787,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+780,202,3.4455445544554455,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+150,201,3.845771144278607,Apollo 13 (1995),Adventure|Drama|IMAX
+1198,200,4.2075,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+4993,198,4.106060606060606,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
